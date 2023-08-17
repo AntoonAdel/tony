@@ -1,1 +1,7 @@
-test the token
+#include "main.h"
+
+/**
+* _isupper - function that checks for uppercase character.
+* @c: the character that wiil be checked.
+*Return: 1 or 0.
+*/
